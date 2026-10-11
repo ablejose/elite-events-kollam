@@ -1,0 +1,59 @@
+{
+  "slug": "elite-events-kollam",
+  "name": "Elite Events Kollam",
+  "shortName": "Elite Events Kollam",
+  "descriptor": "Event Management",
+  "address": "Pallimukku, Kollam, Keralam 691010",
+  "area": "Pallimukku",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691010",
+  "geo": {
+    "lat": 8.8762362,
+    "lng": 76.6250075
+  },
+  "mapsLink": "https://maps.google.com/?cid=14994735388883008848",
+  "phone": "+91 98958 00707",
+  "whatsapp": "919895800707",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.7,
+  "reviewCount": 45,
+  "reviews": [
+    {
+      "name": "BEXEY BENSI",
+      "rating": 4,
+      "quote": "We had a wonderful experience at my brother’s wedding. Everything was beautifully organized, and the service was excellent throughout. The food was absolutely amazing and enjoyed by all our guests. Thank you for making the day special"
+    },
+    {
+      "name": "nhalaziad nihu",
+      "rating": 5,
+      "quote": "I’m extremely happy with the service provided by Elite Events. They made my special day truly wonderful! Everything was beautifully managed and perfectly organised, allowing me to enjoy every moment without any stress. Highly recommended for anyone planning their big day."
+    },
+    {
+      "name": "Pavan Kumar",
+      "rating": 5,
+      "quote": "A very very excellent work that I can't say in words. We managed to set a candle light dinner for my girl's birthday. It's really amazing. This is my first time I was doing my girls birthday and I took the Elite events for help. And they selected a quite and peaceful beach area and we seccussfully did my girl's birthday very grandly."
+    },
+    {
+      "name": "Ashik ashik",
+      "rating": 5,
+      "quote": "Excellent work of stage👍good quality food... One of the best caters in kollam... Thank u for ur mass work in my bro's wedding 😍"
+    },
+    {
+      "name": "Muhammad Sheheer Muhammad Sheheer",
+      "rating": 5,
+      "quote": "Very tasty food and dedicated her job thnk u🙏"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://elite-events-kollam.vercel.app"
+}
